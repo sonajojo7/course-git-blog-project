@@ -22,6 +22,3 @@ This repo contains the source code of a blog project that will be used throughou
 
 With the help of:
 
-* Colt
-* James
-* Julia
